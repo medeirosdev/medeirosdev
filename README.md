@@ -11,6 +11,7 @@
           
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeirosdev&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=medeirosdev&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>

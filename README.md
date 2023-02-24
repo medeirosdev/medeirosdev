@@ -16,6 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<figure><embed src="https://wakatime.com/share/@medeirosdev/996e2a20-3d47-4ce9-8650-06e9afa4ba88.svg"></embed></figure>
 <hr>
 <h2>
 <div style="display: inline_block"><br>

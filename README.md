@@ -6,17 +6,20 @@
           <li>❤️ "Jack of all trades, master of none". </li>
           </ul>
  <hr>
- 
-                    
-          
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeirosdev&show_icons=true&theme=gruvbox)
+
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=medeirosdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lucas Woibau github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+                    
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=medeirosdev&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<figure><embed src="https://wakatime.com/share/@medeirosdev/996e2a20-3d47-4ce9-8650-06e9afa4ba88.svg"></embed></figure>
 <hr>
 <h2>
 <div style="display: inline_block"><br>

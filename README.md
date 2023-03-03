@@ -1,4 +1,4 @@
-<h2> Hello there👋 , I'm guilherme, but you can call me only gui or medeiros. </h2>
+<h2> <i> Hello there </i>👋 , I'm guilherme, but you can call me only gui or medeiros. </h2>
           <ul>
           <li>💥 I am a Fullstack Developer since early 2022. </li>
           <li>💢 I'm currently learning Java and working with NodeJS. </li>
@@ -20,7 +20,7 @@
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <hr>
-<h2> Tecnologias que possuo domínio </h2>
+<h2> <i>Tecnologias</i> que possuo domínio </h2>
 <div style="display: inline_block"><br>
 <img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
@@ -44,7 +44,7 @@
                               
                   
 </div>
-          <h2> Sistemas Operacionais que Trabalho/Trabalhei</h2>     
+          <h2> <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
           <div>
                     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">

@@ -3,7 +3,7 @@
 <a name="ancora"></a>
 
 Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4)|  </div>
-
+<hr>
           <ul>
           <li>💥 I am a Fullstack Developer since early 2022. </li>
           <li>💢 I'm currently learning Java and working with NodeJS. </li>
@@ -11,14 +11,12 @@ Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias
           <li>❤️ "Jack of all trades, master of none". </li>
           </ul>
  <hr>
- 
           <ul>
           <li>📑 Currently studying Docker , C# | .NET and Machine Learning with python. </li>
           <li>📀Reading Clean Architecture, The Craftsman's Guide to Software Structure and Design. </li>
           <li>💬I have experience with UX/UI Design, see my project prototypes here</li>
           <li>🗳 "Jack of all trades, master of none". </li>
           </ul>
-
 
 <a id="ancora1"></a>
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)

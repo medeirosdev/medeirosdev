@@ -1,4 +1,9 @@
 <h2> <i> Hello there </i>👋 , I'm guilherme, but you can call me only gui or medeiros. </h2>
+
+<a name="ancora"></a>
+
+Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4)|  </div>
+
           <ul>
           <li>💥 I am a Fullstack Developer since early 2022. </li>
           <li>💢 I'm currently learning Java and working with NodeJS. </li>
@@ -6,6 +11,7 @@
           <li>❤️ "Jack of all trades, master of none". </li>
           </ul>
  <hr>
+ 
           <ul>
           <li>📑 Currently studying Docker , C# | .NET and Machine Learning with python. </li>
           <li>📀Reading Clean Architecture, The Craftsman's Guide to Software Structure and Design. </li>
@@ -14,7 +20,7 @@
           </ul>
 
 
-
+<a id="ancora1"></a>
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)
 
 <div align="center">  
@@ -27,6 +33,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <hr>
 <h2> <i>Tecnologias</i> que possuo domínio </h2>
+<a id="ancora2"></a>
 <div style="display: inline_block"><br>
 <img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
@@ -48,7 +55,7 @@
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
  <hr>                   
                               
-                  
+<a id="ancora4"></a>                  
 </div>
           <h2> <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
           <div>
@@ -61,6 +68,7 @@
 <hr>
 
 <h2>Confira minhas redes sociais!</h2>
+<a id="ancora3"></a>
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">

@@ -2,7 +2,7 @@
 
 <a name="ancora"></a>
 
-Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4)|  </div>
+Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4) |  </div>
 <hr>
           <ul>
           <li>💥 I am a Fullstack Developer since early 2022. </li>

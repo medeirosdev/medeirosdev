@@ -50,6 +50,9 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
+                   
  <hr>                   
                               
 <a id="ancora4"></a>                  

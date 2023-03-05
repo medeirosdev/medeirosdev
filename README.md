@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0DAB0E&height=120&section=header"/>
 <h2 align="center" > <i> Hello there </i>👋 , I'm guilherme, but you can call me only gui or medeiros. </h2>
 
 <a name="ancora"></a>
@@ -95,4 +94,3 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
            <hr>
 <h3 align="center" >Para acessar meu blog no DEVCommunity, clique <a href="https://dev.to/devmedeiros"><i>aqui</i></a>
 <hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0DAB0E&height=120&section=footer"/>

@@ -90,6 +90,7 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
                     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white ">
                     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white ">
                     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white ">
+                    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
           </div>
            <hr>
 <h3 align="center" >Para acessar meu blog no DEVCommunity, clique <a href="https://dev.to/devmedeiros"><i>aqui</i></a>

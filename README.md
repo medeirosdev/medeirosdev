@@ -29,7 +29,7 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <hr>
-<h2> <i>Tecnologias</i> que possuo domínio </h2>
+<h2 align="center"> <i>Tecnologias</i> que possuo domínio </h2>
 <a id="ancora2"></a>
 <div style="display: inline_block"><br>
 <img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -54,7 +54,7 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
                               
 <a id="ancora4"></a>                  
 </div>
-          <h2> <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
+          <h2 align="center" > <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
           <div>
                     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
@@ -64,12 +64,12 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
           </div>
 <hr>
 
-<h2>Confira minhas redes sociais!</h2>
+<h2 align="center" >Confira minhas redes sociais!</h2>
 <a id="ancora3"></a>
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"          
 </div>
-<h3>Para acessar meu blog no DEVCommunity, clique <a href="https://dev.to/devmedeiros"><i>aqui</i></a>
+<h3 align="center" >Para acessar meu blog no DEVCommunity, clique <a href="https://dev.to/devmedeiros"><i>aqui</i></a>
 <hr>

@@ -15,7 +15,6 @@ Guia de Navegação: <div> | [Gráficos de Desempenho](#ancora1) |  [Tecnologias
           <li>📑 Currently studying Docker , C# | .NET and Machine Learning with python. </li>
           <li>📀Reading Clean Architecture, The Craftsman's Guide to Software Structure and Design. </li>
           <li>💬I have experience with UX/UI Design, see my project prototypes here</li>
-          <li>🗳 "Jack of all trades, master of none". </li>
           </ul>
 
 <a id="ancora1"></a>

@@ -15,11 +15,15 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
           <li>📑 Currently studying Docker , C# | .NET and Machine Learning with python. </li>
           <li>📀Reading Clean Architecture, The Craftsman's Guide to Software Structure and Design. </li>
           <li>💬I have experience with UX/UI Design, see my project prototypes here</li>
-          </ul>
+          <li>🔉 Contact me here: <a href="https://www.linkedin.com/in/guilhermedemedeiros/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671877.png"></a>
+  <a href="https://www.instagram.com/dev.medeiros/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a>   </li> 
+          </ul>  
 
+  
+</div>
 <a id="ancora1"></a>
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=medeirosdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lucas Woibau github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />

@@ -1,4 +1,4 @@
-<h2 align="center" > <i> Hello there </i>👋 , I'm guilherme, but you can call me only gui or medeiros. </h2>
+<h2 align="center" > <i> Hello there </i>👋 , I'm Guilherme, but you can call me only gui or medeiros. </h2>
 
 <a name="ancora"></a>
 

@@ -31,34 +31,12 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 <hr>
 <h2 align="center"> <i>Tecnologias</i> que possuo domínio </h2>
 <a id="ancora2"></a>
-<div style="display: inline_block"><br>
-<img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
-<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-          
-                   
- <hr>                   
-                              
-<a id="ancora4"></a>                  
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width="2400" src="https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,cs,codepen,docker,dotnet,eclipse,electron,express,figma,flask,git,java,md,matlab,mongodb,mysql,nodejs,postgres,postman,react,sequelize,tensorflow,ts,spring,py,maven" />
+  </a>
+</p>
           <h2 align="center" > <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
           <div>
                     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">

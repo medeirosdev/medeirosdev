@@ -38,7 +38,7 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="2400" src="https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,cs,codepen,docker,dotnet,eclipse,electron,express,figma,flask,git,java,md,matlab,mongodb,mysql,nodejs,postgres,postman,react,sequelize,tensorflow,ts,spring,py,maven" />
+    <img width="2400" src="https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,cs,codepen,docker,dotnet,eclipse,electron,express,figma,flask,git,java,md,matlab,mongodb,mysql,nodejs,postgres,postman,react,sequelize,tensorflow,ts,spring,py,maven,latex,autocad, " />
   </a>
 </p>
           <h2 align="center" > <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     

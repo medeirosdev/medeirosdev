@@ -22,6 +22,7 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 
   
 </div>
+&nbsp;
 <a id="ancora1"></a>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=medeirosdev&theme=gotham)

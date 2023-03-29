@@ -81,3 +81,6 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
            <hr>
 <h3 align="center" >Para acessar meu blog no DEVCommunity, clique <a href="https://dev.to/devmedeiros"><i>aqui</i></a>
 <hr>
+
+
+![](./profile-3d-contrib/profile-night-view.svg)

@@ -86,5 +86,6 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 ![](./profile-3d-contrib/profile-night-view.svg)
 ## Projetos Em Destaque:                 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=medeirosdev&repo=EFIRTT-algorithm&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/medeirosdev/EFIRTT-algorithm) &nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=medeirosdev&repo=JokesSite-CSharp-ASP.NET-Core-&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/medeirosdev/JokesSite-CSharp-ASP.NET-Core-)
 

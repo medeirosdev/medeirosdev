@@ -4,7 +4,7 @@
 
 Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4) |  </div>
 <hr>
-          <img hight="80" margin="30" width="160" alt="GIF" align="right" src="https://github.com/medeirosdev/medeirosdev/blob/main/blobs/master/assets/img.jpg">
+          <img hight="80" margin="40" width="160" alt="GIF" align="right" src="https://github.com/medeirosdev/medeirosdev/blob/main/blobs/master/assets/img.jpg">
           <ul>
           <li>💥 I am a Fullstack Developer since early 2022. </li>
           <li>💢 I'm currently learning Java and working with NodeJS. </li>

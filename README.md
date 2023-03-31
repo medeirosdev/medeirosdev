@@ -2,6 +2,9 @@
 
 <a name="ancora"></a>
 
+═════════════════════════════════════════════════════════════════════════════════════════
+        
+                                              
 Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1) |  [Tecnologias e Linguagens](#ancora2) |   [Redes Sociais](#ancora3) |   [OS](#ancora4) |  </div>
 <hr>
           <img hight="80" margin="40" width="160" alt="GIF" align="right" src="https://github.com/medeirosdev/medeirosdev/blob/main/blobs/master/assets/img.jpg">

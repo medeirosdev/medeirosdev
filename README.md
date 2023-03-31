@@ -87,9 +87,10 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 ## Projetos Em Destaque:
-          
+
+                 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=medeirosdev&repo=Registration-System&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/medeirosdev/Registration-System)
-          
+        
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=medeirosdev&repo=BeepApp-C-&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/medeirosdev/BeepApp-C-)
           
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=medeirosdev&repo=EFIRTT-algorithm&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/medeirosdev/EFIRTT-algorithm) 

@@ -23,6 +23,15 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
   <a href="https://www.instagram.com/dev.medeiros/"><img align="center" height="50" width="50" margin="10"src="https://cdn-icons-png.flaticon.com/512/2671/2671874.png"></a>   </li> 
           </ul>  
 
+<h2 align="center"> <i>Tecnologias</i> que possuo domínio </h2>
+<a id="ancora2"></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width="2400" src="https://skillicons.dev/icons?i=js,html,css,aws,nestjs,nextjs,prisma,rust,solidity,bootstrap,cs,codepen,docker,dotnet,eclipse,electron,express,figma,flask,git,java,md,matlab,mongodb,mysql,nodejs,postgres,postman,react,sequelize,tensorflow,ts,spring,py,maven,latex," />
+  </a>
+</p>
+
+
   
 </div>
 &nbsp;
@@ -38,15 +47,10 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <hr>
-<h2 align="center"> <i>Tecnologias</i> que possuo domínio </h2>
-<a id="ancora2"></a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img width="2400" src="https://skillicons.dev/icons?i=js,html,css,aws,nestjs,nextjs,prisma,rust,solidity,bootstrap,cs,codepen,docker,dotnet,eclipse,electron,express,figma,flask,git,java,md,matlab,mongodb,mysql,nodejs,postgres,postman,react,sequelize,tensorflow,ts,spring,py,maven,latex," />
-  </a>
-</p>
-          <h2 align="center" > <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
+
+
+ <h2 align="center" > <i>Sistemas Operacionais</i> que Trabalho/Trabalhei</h2>     
           <div>
                     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
@@ -88,7 +92,6 @@ Guia de Navegação: <div align="center" > | [Gráficos de Desempenho](#ancora1)
 <hr>
 
 
-![](./profile-3d-contrib/profile-night-view.svg)
 ## Projetos Em Destaque:
 <div align="center">
  

@@ -30,6 +30,12 @@
     - <a href="https://github.com/medeirosdev/ARFluidinamics">ARFluidinamics</a>: computational fluid dynamics simulation and visualization.<br>
 
   </a>
+
+<br>
+<br>
+<br>
+
+  <i>Jack of all trades, master of none</i>
   
   </samp>
 
